@@ -723,4 +723,11 @@ const credentials = {
       { name: "history", grade: 11 },
     ],
   },
+ test: {
+    password: "2007",
+    subjects: [
+      { name: "history Paper", grade: 11 },
+      { name: "history", grade: 11 },
+    ],
+  },
 };
