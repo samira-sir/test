@@ -727,7 +727,7 @@ const credentials = {
     password: "2007",
     subjects: [
       { name: "history Paper", grade: 11 },
-      { name: "history", grade: 11 },
+      { name: "history", grade: 6 },
     ],
   },
 };
